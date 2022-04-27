@@ -1,0 +1,19 @@
+.navigation {
+  display: flex;
+  background-color: white;
+}
+.navigation form {
+  height: 30%;
+  width: 40%;
+}
+.board {
+  background-color: white;
+  padding-left: 18%;
+  height: 20%;
+}
+.carousel slide {
+  height: 20%;
+  width: 10%;
+  scroll-snap-align: start;
+  scroll-behavior: smooth;
+}
